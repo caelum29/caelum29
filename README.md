@@ -9,11 +9,11 @@
 <code><img height="26" title="Scss" alt="Sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></code>
 <code><img height="26" title="JavaScript" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
 <code><img height="26" title="TypeScript" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></code>
-<code><img height="26" title="NgRx" alt="NgRx" src="https://iconape.com/wp-content/files/fm/91325/png/rxjs-1.png" /></code>
-<code><img height="26" title="RxJS" alt="RxJS" src="https://user-images.githubusercontent.com/7826229/28226848-9903db36-68a5-11e7-9056-f37d8a77067e.png" /></code>
 <code><img height="26" title="Git" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
 <code><img height="26" title="GitHub" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
 
+<br/>
+<code><img title="GitHub" alt="codewars" src="https://www.codewars.com/users/caelum29/badges/large" /></code>
 <br/>
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=caelum29&show_icons=true" alt="caelum29" />

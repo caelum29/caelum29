@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is <b>Artem</b>. Welcome to my Github page!
+
 **Languages and Tools:**  
 
 <code><img height="26" title="Webstorm" alt="Webstorm" src="https://cdn.freebiesupply.com/logos/large/2x/webstorm-icon-logo-png-transparent.png" /></code>

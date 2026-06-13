@@ -43,4 +43,4 @@
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/artem-sorochynskyi-b1a39419a/)
+[LinkedIn](https://www.linkedin.com/in/artem-sorochynskyi/)

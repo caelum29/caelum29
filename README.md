@@ -43,4 +43,4 @@
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/artem-sorochynskyi-b1a39419a/) · 📧 artem.sorochinskyi@gmail.com
+[LinkedIn](https://www.linkedin.com/in/artem-sorochynskyi-b1a39419a/)

@@ -1,38 +1,46 @@
-### Hi there <img src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/wave.gif" width="30px">
+# Artem Sorochynskyi
 
-My name is <b>Artem</b>. Welcome to my Github page!
+**Senior Backend Engineer · Node.js / TypeScript**
 
-**My Languages and Tools:**  
+> I build and operate the **LLM/agent layer of distributed systems** —
+> NestJS microservices, Kafka, gRPC, and MCP servers.
 
-<code><img height="26" title="HTML5" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
-<code><img height="26" title="CSS3" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
-<code><img height="26" title="Scss" alt="Sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></code>
-<code><img height="26" title="JavaScript" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
-<code><img height="26" title="TypeScript" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></code>
-<code><img height="26" title="React" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
-<code><img height="26" title="Node" alt="Node" src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/nodejs-original.svg" /></code>
-<code><img height="26" title="MongoDb" alt="MongoDb" src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/mongodb-original.svg" /></code>
-<code><img height="26" title="Git" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
-<code><img height="26" title="GitHub" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
-<code><img height="26" title="Webstorm" alt="Webstorm" src="https://cdn.freebiesupply.com/logos/large/2x/webstorm-icon-logo-png-transparent.png" /></code>
+🇺🇦 Lviv, Ukraine · open to **EU-remote (B2B)** roles
 
-<br/>
-<code><img title="GitHub" alt="codewars" src="https://www.codewars.com/users/caelum29/badges/large" /></code>
-<br/>
+- 🔭 **Currently** — building agentic tooling and event-driven backends on a NestJS / Kafka / TimescaleDB stack
+- ⚙️ **Selected results** — 10× Kafka-consumer throughput (30 → 300+ msg/s) · 70% lower DB load via multi-level caching · 10,000+ GPS events/day at 99.5% uptime · 31+ microservices wired with gRPC / Protobuf
+- 🧠 **Going deep on** — MCP servers & agent tooling, RAG, structured outputs, evals & guardrails
+- 🗣️ Ukrainian (native) · English (C1)
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=caelum29&show_icons=true" alt="caelum29" />
+### Tech
 
-<!--
-**caelum29/caelum29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 
-Here are some ideas to get you started:
+**Backend**
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Events & messaging**
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square)
+![Protobuf](https://img.shields.io/badge/Protobuf-2C5BB4?style=flat-square)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+**Data**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=black)
+![PostGIS](https://img.shields.io/badge/PostGIS-008BB9?style=flat-square)
+
+**Infra & AI tooling**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/artem-sorochynskyi-b1a39419a/) · 📧 artem.sorochinskyi@gmail.com
